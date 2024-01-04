@@ -2,21 +2,19 @@
 
 - 매주 목요일 11시 59분 까지 하나의 주제에 대해 다섯 문제씩 풀이 업로드하기
 - 모르는 알고리즘은 알고리즘 개념 공부하기
-  
-### Language - JAVA
+- Language - JAVA
 
-## Week
 ### Week 01 - 자료구조1 (24.01.04)
 
 | 유형 | 제목 | 풀이 |
 | --- | --- | --- |
-| 자료구조 | !(백준 10829 : 스택){https://www.acmicpc.net/problem/10828} |  |
-| 자료구조 | 백준 18258 : 큐2 |  |
-| 자료구조 | 백준 1935 : 후위 표기식2 |  |
-| 자료구조 | 백준 1966 : 프린터 큐 |  |
-| 자료구조 | 백준 1874 : 스택 수열 |  |
+| 자료구조 | [백준 10829 : 스택](https://www.acmicpc.net/problem/10828) |  |
+| 자료구조 | [백준 18258 : 큐2](https://www.acmicpc.net/problem/18258) |  |
+| 자료구조 | [백준 1935 : 후위 표기식2](https://www.acmicpc.net/problem/1935) |  |
+| 자료구조 | [백준 1966 : 프린터 큐](https://www.acmicpc.net/problem/1966) |  |
+| 자료구조 | [백준 1874 : 스택 수열](https://www.acmicpc.net/problem/1874) |  |
 
-
+<br>
 
 ## 📍 Commit Message Convention
 
