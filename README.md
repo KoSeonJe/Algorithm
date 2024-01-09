@@ -8,7 +8,7 @@
 
 | 유형 | 제목 | 풀이 |
 | --- | --- | --- |
-| 자료구조1 | [백준 10829 : 스택](https://www.acmicpc.net/problem/10828) |  |
+| 자료구조1 | [백준 10828 : 스택](https://www.acmicpc.net/problem/10828) |  |
 | 자료구조1 | [백준 18258 : 큐2](https://www.acmicpc.net/problem/18258) |  |
 | 자료구조1 | [백준 1935 : 후위 표기식2](https://www.acmicpc.net/problem/1935) |  |
 | 자료구조1 | [백준 1966 : 프린터 큐](https://www.acmicpc.net/problem/1966) |  |
