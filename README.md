@@ -14,6 +14,17 @@
 | 자료구조1 | [백준 1966 : 프린터 큐](https://www.acmicpc.net/problem/1966) |  |
 | 자료구조1 | [백준 1874 : 스택 수열](https://www.acmicpc.net/problem/1874) |  |
 
+
+#### Week 02 (24.01.11)
+
+| 유형 | 제목 | 풀이 |
+| — | — | — |
+| 자료구조2 | [백준 1620 : 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) |  |
+| 자료구조2 | [백준 14425 : 문자열 집합](https://www.acmicpc.net/problem/14425) |  |
+| 자료구조2 | [백준 11279 : 최대 힙](https://www.acmicpc.net/problem/11279) |  |
+| 자료구조2 | [백준 2075 : N번째 큰 수](https://www.acmicpc.net/problem/2075) |  |
+| 자료구조2 | [백준 11286 : 절댓값 힙](https://www.acmicpc.net/problem/11286) |  |
+| 자료구조2 | [백준 21939 : 문제 추천 시스템1](https://www.acmicpc.net/problem/21939) |  |
 <br>
 
 ## 📍 Commit Message Convention
