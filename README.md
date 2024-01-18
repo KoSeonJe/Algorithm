@@ -26,6 +26,19 @@
 | 자료구조2 | [백준 11286 : 절댓값 힙](https://www.acmicpc.net/problem/11286) | [🚀](https://github.com/KoSeonJe/Algorithm/blob/main/week2_DataStructure/AbsoluteHeap.java) |
 | 자료구조2 | [백준 21939 : 문제 추천 시스템1](https://www.acmicpc.net/problem/21939) | [🚀](https://github.com/KoSeonJe/Algorithm/blob/main/week2_DataStructure/RecommendSystem.java) |
 
+
+### Week 03 (24.01.18)
+
+| 유형 | 제목 | 풀이 |
+| --- | --- | :---: |
+| 트리 | [백준 11725 : 트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | |
+| 트리 | [백준 1991 : 트리 순회](https://www.acmicpc.net/problem/1991) | |
+| 트리 | [백준 9934 : 완전 이진 트리](https://www.acmicpc.net/problem/9934) | |
+| 트리 | [백준 14675 : 단절점과 단절선](https://www.acmicpc.net/problem/14675) | |
+| 트리 | [백준 1068 : 트리](https://www.acmicpc.net/problem/1068) | |
+| 트리 | [백준 5639 : 이진 검색 트리](https://www.acmicpc.net/problem/5639) | |
+| 트리 | [백준 20924 : 트리의 기둥과 기지](https://www.acmicpc.net/problem/20924) | |
+
 <br>
 
 ## 📍 Commit Message Convention
