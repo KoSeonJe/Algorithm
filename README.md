@@ -27,7 +27,7 @@
 | 자료구조2 | [백준 21939 : 문제 추천 시스템1](https://www.acmicpc.net/problem/21939) | [🚀](https://github.com/KoSeonJe/Algorithm/blob/main/week2_DataStructure/RecommendSystem.java) |
 
 
-### Week 03 (24.01.18)
+### Week 03 - Tree (24.01.18)
 
 | 유형 | 제목 | 풀이 |
 | --- | --- | :---: |
