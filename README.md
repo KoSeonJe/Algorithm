@@ -1,10 +1,9 @@
 # 📖 Algorithm
 
-- 매주 목요일 11시 59분 까지 하나의 주제에 대해 다섯 문제씩 풀이 업로드하기
 - 모르는 알고리즘은 알고리즘 개념 공부하기
 - Language - JAVA
 
-### Week 01 - 자료구조1 (24.01.04)
+### 자료구조1
 
 | 유형 | 제목 | 풀이 |
 | --- | --- | :---: |
@@ -15,7 +14,7 @@
 | 자료구조1 | [백준 1874 : 스택 수열](https://www.acmicpc.net/problem/1874) | [🚀](https://github.com/KoSeonJe/Algorithm/blob/main/week1_DataStructure/StackSequence.java) |
 
 
-### Week 02 - 자료구조2 (24.01.11)
+### 자료구조2
 
 | 유형 | 제목 | 풀이 |
 | --- | --- | :---: |
@@ -27,7 +26,7 @@
 | 자료구조2 | [백준 21939 : 문제 추천 시스템1](https://www.acmicpc.net/problem/21939) | [🚀](https://github.com/KoSeonJe/Algorithm/blob/main/week2_DataStructure/RecommendSystem.java) |
 
 
-### Week 03 - Tree (24.01.18)
+### Tree
 
 | 유형 | 제목 | 풀이 |
 | --- | --- | :---: |
